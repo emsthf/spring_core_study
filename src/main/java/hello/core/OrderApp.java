@@ -12,7 +12,7 @@ public class OrderApp {
 
     public static void main(String[] args) {
 
-        // 순수 자바 코드인 AppConfig 방인
+        // 순수 자바 코드인 AppConfig 방식
 //        AppConfig appConfig = new AppConfig();
 //        MemberService memberService = appConfig.memberService();
 //        OrderService orderService = appConfig.orderService();
